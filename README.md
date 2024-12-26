@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @AlexSevergin
-- 🌱 I’m currently learning Java, C++, Python, GIT
-
-My name is Aleks. I am a student at "Kyiv-Mohyla Academy". I'm in the fourth year of the "Applied Math" specialty. 
-I want to create new projects, gain more knowledge in Java, C++, and Python and share it with the world! 
+- 👋 Hi, I’m @AlexSevergin and I'm a Data Scientist, ML/AI enthusiast, researcher in fields of Blockchain, AI. 
+- 🌱 I’m currently on the first year of Applied Mathematics master program at National University Kyiv Mohyla Academy.
+- 🧑‍💻 Having a deep experience in Java (Spring Boot), C++, Python (numpy, pandas, matplotlib, streamlit, scikit-learn, pytorch) and various databases (both SQL and noSQL) I like to participate in different projects and researches, learn new programming languages and frameworks, extending my knowledge in skills in areas I like the most.
